@@ -1,5 +1,5 @@
 # instagram web login page
-<a href="https://github.com/mobiiiin/HTML-CSS-s/blob/main/instagram-web-login/index.html">
+<a href="http://127.0.0.1:5500/index.html">
   <img src="images/instagram-web-login-page.png"
             style="height:50%;width:80%;">
     </img>
